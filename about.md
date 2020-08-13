@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a perpetually curious, knowledge hoarding (my wife would say book hoarding), software engineer. I do a lot of different things in my free time. In the last couple months the main projects have been in electronics, woodworking, art and DIY around the house. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My goal is to introduce a scientific foundation into my life. I'll be doing this by taking an engineering approach in the projects I'll develop in the coming years. But not only in projects but in the ideas that I hold. I want to move away from making assumptions, and going on gut feelings, to using data to make decisions and understand the world around me.   
