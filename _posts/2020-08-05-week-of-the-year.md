@@ -57,7 +57,7 @@ Finally, we create a Yas snippet that'll fill most of the structure. We will add
 ```
 The $1 puts the cursor next to the word Week and on the block section of the clocktable. When you press enter, it moves the cursor to the TODO line.
  
-I'm sure there's a way to shorten the amount of work I have to do where the week number gets set automatically. It takes so little time to add a new week entry that I'm not super pressed to update it.  
+I'm sure there's a way to shorten the amount of work I have to do where the week number gets set automatically, but this way it takes so little time to add a new entry that I'm not super pressed to update it.  
  
 # References
  * [clocktable](https://orgmode.org/manual/The-clock-table.html)
