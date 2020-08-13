@@ -59,7 +59,7 @@ The $1 puts the cursor next to the word Week and on the block section of the clo
  
 I'm sure there's a way to shorten the amount of work I have to do where the week number gets set automatically. It takes so little time to add a new week entry that I'm not super pressed to update it.  
  
- ## References
+## References
  * [clocktable](https://orgmode.org/manual/The-clock-table.html)
  * [yas snippets](https://github.com/joaotavora/yasnippet)
  * [emacs](https://www.gnu.org/software/emacs/)
