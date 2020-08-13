@@ -13,7 +13,7 @@ The best tool I've found for doing this has been Emacs (Spacemacs) org-mode. The
 
 One thing that I do consistently is organizing my todo's and notes every week. They look something like this:
 
-![week template example](../_images/week_template.png)
+![week template example]({{site.url}}/_images/week_template.png)
 
 The problem is that there's a lot type every week, which reduces the chances of creating a habit.
 
